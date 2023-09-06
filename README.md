@@ -9,6 +9,7 @@
 
 
 # PROJETO ESCRITA DO README
+![Capa do projeto](img/Capa.png)
 
 ## Descrição 
 
